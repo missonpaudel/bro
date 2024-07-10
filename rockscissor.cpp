@@ -8,7 +8,7 @@ void chooseWinner(char player,char computer);
 
 
 int main (){
-    char player; 
+    char player;
     char computer;
 
     player = getUserChoice();
